@@ -8,7 +8,7 @@
  
 **Enlace del repositorio en GitHub:** 
 - [Github Camilo Parra](https://github.com/CamiloIv/ProgramaAssemble) 
- 
+- [Github Camilo Parra](https://github.com/johiny/mars_assembly_sim) 
 
 ---
 
